@@ -1,4 +1,4 @@
-# Sistema de gestión universitaria ~ UML
+# Sistema de gestión universitaria - UML
 ![kisspng-staruml-unified-modeling-language-xml-metadata-int-5c2f950cd7cf00 723378481546622220884](https://user-images.githubusercontent.com/83146564/125234344-e93dd180-e2b6-11eb-8d08-3f565d3b16dc.png)
 
 
