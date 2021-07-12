@@ -1,8 +1,9 @@
 # Sistema de gestión universitaria ~ UML
-Modelo utilizando un diagrama de clases.
+![kisspng-staruml-unified-modeling-language-xml-metadata-int-5c2f950cd7cf00 723378481546622220884](https://user-images.githubusercontent.com/83146564/125234344-e93dd180-e2b6-11eb-8d08-3f565d3b16dc.png)
+
 
 # Ejercicio 📝 
-
+Modelar utilizando un diagrama de clases. 
 En una universidad existen diferentes aulas, oficinas y departamentos.
 
 Cada departamento tiene un nombre y contiene varias oficinas.
